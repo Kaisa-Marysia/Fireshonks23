@@ -4,4 +4,4 @@ https://raw.githubusercontent.com/Kaisa-Marysia/Fireshonks23/main/Video/Intro/Tr
 
 # Outro
 
-https://github.com/Kaisa-Marysia/Fireshonks23/raw/main/Video/Outro/Try_This_At_Home_Outro.mp4
+https://raw.githubusercontent.com/Kaisa-Marysia/Fireshonks23/main/Video/Outro/Try_This_At_Home_Outro.mp4
